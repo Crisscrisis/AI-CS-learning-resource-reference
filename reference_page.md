@@ -9,8 +9,12 @@
 <https://www.learnopencv.com/>
 
 **Blog**
+###### Cool shell: 陈皓的个人主页
+<https://coolshell.cn/>
 ###### Mind Hacks: 刘未鹏的个人主页
 <http://mindhacks.cn/>
+###### 算法与数据结构,机器学习,深度学习: liwei的个人主页
+<https://liweiwei1419.gitee.io/>
 
 **Tool**
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
