@@ -36,9 +36,11 @@
 <https://blog.csdn.net/weixin_38180944/article/details/81672985>
 #### python+OpenCV修改视频分辨率
 <https://blog.csdn.net/qq_37431083/article/details/101099017>
+
 <https://theailearner.com/2018/11/15/changing-video-resolution-using-opencv-python/>
 #### python+OpenCV将图片保存为视频
 <https://blog.csdn.net/aa846555831/article/details/53070314>
+
 <https://theailearner.com/2018/10/15/creating-video-from-images-using-opencv-python/>
 #### numpy数据类型转换
 <https://www.numpy.org.cn/user/basics/types.html#%E6%95%B0%E7%BB%84%E7%B1%BB%E5%9E%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BD%AC%E6%8D%A2>
@@ -104,9 +106,13 @@
 <https://zhuanlan.zhihu.com/p/30934236>
 #### RuntimeError: CUDA out of memory
 <https://github.com/pytorch/pytorch/issues/16417>
+
 <https://stackoverflow.com/questions/54374935/how-to-fix-this-strange-error-runtimeerror-cuda-error-out-of-memory>
+
 <https://pytorch.org/docs/stable/notes/faq.html#my-model-reports-cuda-runtime-error-2-out-of-memory>
+
 <https://blog.csdn.net/xiaoxifei/article/details/84377204>
+
 <https://blog.csdn.net/qq_28660035/article/details/80688427>
 
 # 工程问题
