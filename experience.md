@@ -112,3 +112,5 @@
 # 工程问题
 #### VS常见错误之一：error LNK2019: 无法解析的外部符号
 <https://blog.csdn.net/qq_20661579/article/details/76960275>
+#### error LNK2019: 无法解析的外部符号---官方文档
+<https://docs.microsoft.com/zh-cn/cpp/error-messages/tool-errors/linker-tools-error-lnk2019?view=vs-2019>
