@@ -27,3 +27,9 @@
 **Tutorial**
 ###### 易百教程: git tutorial
 <https://www.yiibai.com/git>
+
+**Study**
+###### 鸟哥Linux私房菜
+<http://cn.linux.vbird.org/linux_basic/linux_basic.php>
+###### 廖雪峰python教程
+<https://www.liaoxuefeng.com/wiki/1016959663602400>
