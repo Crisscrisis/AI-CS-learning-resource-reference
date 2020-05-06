@@ -33,3 +33,5 @@
 <http://cn.linux.vbird.org/linux_basic/linux_basic.php>
 ###### 廖雪峰python教程
 <https://www.liaoxuefeng.com/wiki/1016959663602400>
+###### labuladong的算法小抄
+<https://labuladong.gitbook.io/algo/>
