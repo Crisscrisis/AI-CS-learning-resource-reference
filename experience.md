@@ -70,10 +70,15 @@
 <https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/>
 #### 处理missing data问题
 <https://www.craft.ai/blog/missing-values>
+
 <https://people.cs.umass.edu/~marlin/research/phd_thesis/marlin-phd-thesis.pdf>
+
 <https://medium.com/@ODSC/missing-data-in-supervised-machine-learning-b6df0f02a731>
+
 <https://medium.com/towards-artificial-intelligence/handling-missing-data-for-advanced-machine-learning-b6eb89050357>
+
 <https://towardsdatascience.com/working-with-missing-data-in-machine-learning-9c0a430df4ce>
+
 #### 数据增强
 <https://link.springer.com/article/10.1186/s40537-019-0197-0#Sec34>
 
@@ -116,9 +121,13 @@
 <https://zhuanlan.zhihu.com/p/30934236>
 #### RuntimeError: CUDA out of memory
 <https://github.com/pytorch/pytorch/issues/16417>
+
 <https://stackoverflow.com/questions/54374935/how-to-fix-this-strange-error-runtimeerror-cuda-error-out-of-memory>
+
 <https://pytorch.org/docs/stable/notes/faq.html#my-model-reports-cuda-runtime-error-2-out-of-memory>
+
 <https://blog.csdn.net/xiaoxifei/article/details/84377204>
+
 <https://blog.csdn.net/qq_28660035/article/details/80688427>
 
 # 工程问题
