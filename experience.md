@@ -13,6 +13,12 @@
 <http://c.biancheng.net/cpp/biancheng/view/3297.html>
 #### 单例模式
 <https://www.cnblogs.com/zxh1210603696/p/4157294.html>
+#### 循环队列
+<https://www.cnblogs.com/diegodu/p/4619104.html>
+
+<https://embeddedartistry.com/blog/2017/05/17/creating-a-circular-buffer-in-c-and-c/>
+#### 值传递，指针传递，引用传递区别
+<https://www.cnblogs.com/yanlingyin/archive/2011/12/07/2278961.html>
 
 # Python 经验总结
 #### pytorch中文教程
@@ -81,6 +87,16 @@
 
 #### 数据增强
 <https://link.springer.com/article/10.1186/s40537-019-0197-0#Sec34>
+#### GCN
+<https://link.springer.com/article/10.1186/s40537-019-0197-0#Sec34>
+
+<https://www.jiqizhixin.com/articles/2019-12-04-10>
+
+<https://zhuanlan.zhihu.com/p/107986072>
+
+<https://zhuanlan.zhihu.com/p/38437739>
+
+
 
 # 环境配置
 #### conda环境管理
