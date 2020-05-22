@@ -35,3 +35,5 @@
 <https://www.liaoxuefeng.com/wiki/1016959663602400>
 ###### labuladong的算法小抄
 <https://labuladong.gitbook.io/algo/>
+###### geeksforgeeks:computer science portal for geeks
+<https://www.geeksforgeeks.org/c-plus-plus/>
