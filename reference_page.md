@@ -15,6 +15,8 @@
 <http://mindhacks.cn/>
 ###### 算法与数据结构,机器学习,深度学习: liwei的个人主页
 <https://liweiwei1419.gitee.io/>
+###### 人工智能学习笔记: 前阿里高级研究员总结
+<http://huaxiaozhuan.com/>
 
 **Tool**
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
