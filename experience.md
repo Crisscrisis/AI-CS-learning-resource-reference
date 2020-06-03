@@ -15,6 +15,8 @@
 <https://www.cnblogs.com/zxh1210603696/p/4157294.html>
 #### 循环队列
 <https://www.cnblogs.com/diegodu/p/4619104.html>
+#### C++ vector性能提升技巧
+<https://www.oschina.net/translate/6-tips-supercharge-cpp-11-vector-performance?lang=chs&p=1>
 
 <https://embeddedartistry.com/blog/2017/05/17/creating-a-circular-buffer-in-c-and-c/>
 #### 值传递，指针传递，引用传递区别
@@ -50,6 +52,10 @@
 <https://theailearner.com/2018/10/15/creating-video-from-images-using-opencv-python/>
 #### numpy数据类型转换
 <https://www.numpy.org.cn/user/basics/types.html#%E6%95%B0%E7%BB%84%E7%B1%BB%E5%9E%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BD%AC%E6%8D%A2>
+#### 使用原生files.sort()会导致不符合自然排序，使用natsort实现自然排序
+<https://github.com/SethMMorton/natsort>
+#### 比较字符串是否一样，有时不符合预期，原因总结
+<https://blog.csdn.net/mxiawang/article/details/84256936>
 
 # OpenCV经验总结
 #### 绘制点，直线几何图形
