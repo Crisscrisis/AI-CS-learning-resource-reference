@@ -7,6 +7,8 @@
 <https://devdocs.io/>
 ###### Learn OpenCV: articles about OpenCV
 <https://www.learnopencv.com/>
+###### ScienceDirect: 世界上科学研究出版的最大在线收藏,包含了大约一千一百万篇文章、2500种期刊、6000多册电子图书、参考书、手册
+<https://www.sciencedirect.com/browse/journals-and-books?subject=computer-vision-and-pattern-recognition>
 
 **Blog**
 ###### Cool shell: 陈皓的个人主页
