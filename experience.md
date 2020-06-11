@@ -53,6 +53,7 @@
 #### numpy数据类型转换
 <https://www.numpy.org.cn/user/basics/types.html#%E6%95%B0%E7%BB%84%E7%B1%BB%E5%9E%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E8%BD%AC%E6%8D%A2>
 #### 使用原生files.sort()会导致不符合自然排序，使用natsort实现自然排序
+<https://natsort.readthedocs.io/en/master/>
 <https://github.com/SethMMorton/natsort>
 #### 比较字符串是否一样，有时不符合预期，原因总结
 <https://blog.csdn.net/mxiawang/article/details/84256936>
