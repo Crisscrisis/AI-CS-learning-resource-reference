@@ -45,3 +45,5 @@
 <https://labuladong.gitbook.io/algo/>
 ###### geeksforgeeks:computer science portal for geeks
 <https://www.geeksforgeeks.org/c-plus-plus/>
+###### gitbook-笨办法学C
+<https://legacy.gitbook.com/book/wizardforcel/lcthw/details>
