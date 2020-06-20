@@ -1,6 +1,6 @@
 # Reference Page
 
-**Reference**
+### Reference
 ###### isocpp.org: News, Status & Discussion about Standard C++
 <https://isocpp.org/>
 ###### devdocs.io: multiple API documentations in a fast, organized, and searchable interface
@@ -10,7 +10,7 @@
 ###### ScienceDirect: 世界上科学研究出版的最大在线收藏,包含了大约一千一百万篇文章、2500种期刊、6000多册电子图书、参考书、手册
 <https://www.sciencedirect.com/browse/journals-and-books?subject=computer-vision-and-pattern-recognition>
 
-**Blog**
+### Blog
 ###### Cool shell: 陈皓的个人主页
 <https://coolshell.cn/>
 ###### Mind Hacks: 刘未鹏的个人主页
@@ -20,7 +20,7 @@
 ###### 人工智能学习笔记: 前阿里高级研究员总结
 <http://huaxiaozhuan.com/>
 
-**Tool**
+### Tool
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
 <https://lutzroeder.github.io/netron/>
 ###### compiler exploer:将c++代码在线显示成编译后的汇编
@@ -30,15 +30,15 @@
 ###### gitflow工作流
 <https://github.com/oldratlee/translations/tree/master/git-workflows-and-tutorials>
 
-**Info**
+### Info
 ###### Paperwithcode: Papers With Code highlights trending ML research and the code to implement it
 <https://paperswithcode.com/>
 
-**Tutorial**
+### Tutorial
 ###### 易百教程: git tutorial
 <https://www.yiibai.com/git>
 
-**Study**
+### Study
 ###### 鸟哥Linux私房菜
 <http://cn.linux.vbird.org/linux_basic/linux_basic.php>
 ###### 廖雪峰python教程
