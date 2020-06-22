@@ -130,6 +130,8 @@
 <https://github.com/jwasham/coding-interview-university>
 #### 微软人工智能教育与学习共建社区
 <https://github.com/microsoft/ai-edu>
+#### Learn Git Branching最好的学习，练习git平台
+<https://oschina.gitee.io/learn-git-branching/>
 
 # ML训练
 #### GPU和显存分析
