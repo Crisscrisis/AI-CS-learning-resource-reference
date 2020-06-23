@@ -57,6 +57,8 @@
 <https://github.com/SethMMorton/natsort>
 #### 比较字符串是否一样，有时不符合预期，原因总结
 <https://blog.csdn.net/mxiawang/article/details/84256936>
+#### pyinstaller:打包python脚本，生成可执行的exe
+<https://www.pyinstaller.org/>
 
 # OpenCV经验总结
 #### 绘制点，直线几何图形
