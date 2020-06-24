@@ -49,3 +49,5 @@
 <https://www.geeksforgeeks.org/c-plus-plus/>
 ###### gitbook-笨办法学C
 <https://legacy.gitbook.com/book/wizardforcel/lcthw/details>
+###### Dive deeper on topics that matter to you
+<https://medium.com/>
