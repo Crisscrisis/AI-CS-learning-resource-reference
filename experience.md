@@ -134,6 +134,8 @@
 <https://github.com/microsoft/ai-edu>
 #### Learn Git Branching最好的学习，练习git平台
 <https://oschina.gitee.io/learn-git-branching/>
+#### 剑指offer笔记
+<https://zdkswd.github.io/2018/10/28/%E5%89%91%E6%8C%87offer%20%20%E9%9D%A2%E8%AF%95%E7%9A%84%E6%B5%81%E7%A8%8B/>
 
 # ML训练
 #### GPU和显存分析
