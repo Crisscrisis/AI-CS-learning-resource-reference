@@ -51,3 +51,5 @@
 <https://legacy.gitbook.com/book/wizardforcel/lcthw/details>
 ###### Dive deeper on topics that matter to you
 <https://medium.com/>
+###### Machine Learning 数学书
+<https://www.cis.upenn.edu/~jean/math-deep.pdf>
