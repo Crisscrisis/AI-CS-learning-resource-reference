@@ -53,3 +53,5 @@
 <https://medium.com/>
 ###### Machine Learning 数学书
 <https://www.cis.upenn.edu/~jean/math-deep.pdf>
+###### 极客图书
+<https://jikbook.com/category/ai>
