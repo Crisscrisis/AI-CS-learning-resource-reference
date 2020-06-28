@@ -51,7 +51,13 @@
 <https://legacy.gitbook.com/book/wizardforcel/lcthw/details>
 ###### Dive deeper on topics that matter to you
 <https://medium.com/>
+
+### books
 ###### Machine Learning 数学书
 <https://www.cis.upenn.edu/~jean/math-deep.pdf>
 ###### 极客图书
 <https://jikbook.com/category/ai>
+###### deep learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+<http://www.deeplearningbook.org/>
+###### dive into deep learning
+<https://d2l.ai/d2l-en.pdf>
