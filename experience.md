@@ -110,6 +110,9 @@
 # 环境配置
 #### conda环境管理
 <https://www.jianshu.com/p/aef6ff9730df>
+#### git将fork的分支内容同步至自己的分支
+<https://help.github.com/cn/github/collaborating-with-issues-and-pull-requests/syncing-a-fork>
+<https://help.github.com/cn/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork>
 
 # LeetCode
 #### LeetCode题解
