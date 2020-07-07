@@ -61,3 +61,5 @@
 <http://www.deeplearningbook.org/>
 ###### dive into deep learning
 <https://d2l.ai/d2l-en.pdf>
+###### 图书资源下载
+<https://www.jqhtml.com/down/>
