@@ -37,6 +37,8 @@
 ### Tutorial
 ###### 易百教程: git tutorial
 <https://www.yiibai.com/git>
+###### stanford deeplearning tutorial
+<http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/>
 
 ### Study
 ###### 鸟哥Linux私房菜
@@ -65,3 +67,7 @@
 <https://tangshusen.me/Dive-into-DL-PyTorch/#/>
 ###### 图书资源下载
 <https://www.jqhtml.com/down/>
+###### Neural networks and deep learning
+<http://neuralnetworksanddeeplearning.com/chap1.html>
+###### deep learning with pytorch
+<https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf>
