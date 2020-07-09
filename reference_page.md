@@ -61,5 +61,7 @@
 <http://www.deeplearningbook.org/>
 ###### dive into deep learning
 <https://d2l.ai/d2l-en.pdf>
+###### dive into deep learning(in pytorch)
+<https://tangshusen.me/Dive-into-DL-PyTorch/#/>
 ###### 图书资源下载
 <https://www.jqhtml.com/down/>
