@@ -19,6 +19,8 @@
 <https://liweiwei1419.gitee.io/>
 ###### 人工智能学习笔记: 前阿里高级研究员总结
 <http://huaxiaozhuan.com/>
+###### 红色石头
+<https://redstonewill.com/>
 
 ### Tool
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
@@ -71,3 +73,5 @@
 <http://neuralnetworksanddeeplearning.com/chap1.html>
 ###### deep learning with pytorch
 <https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf>
+###### 神经网络与深度学习 邱锡鹏
+<https://nndl.github.io/nndl-book.pdf>
