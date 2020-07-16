@@ -18,5 +18,5 @@
 http://www.wikiwand.com/en/Perceptron
 https://zhuanlan.zhihu.com/p/26307123
 https://blog.csdn.net/Dream_angel_Z/article/details/48915561
-#### MLP，back propagation，
+#### MLP，back propagation
 http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
