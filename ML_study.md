@@ -1,5 +1,13 @@
 # ML学习路线
 ## 基础知识
+#### 梯度下降
+<https://medium.com/@saishruthi.tn/gradient-descent-algorithms-cefa1945a774>
+#### 梯度下降算法实现
+<https://www.jianshu.com/p/c7e642877b0e>
+#### 线性回归
+<https://developer.aliyun.com/article/727179>
+#### 梯度下降python实现
+<https://medium.com/@zhaoyi0113/python-implementation-of-batch-gradient-descent-379fa19eb428>
 #### 机器学习中的交叉熵
 <https://blog.csdn.net/tsyccnh/article/details/79163834>
 #### 相对熵
@@ -20,5 +28,7 @@ http://www.wikiwand.com/en/Perceptron
 https://zhuanlan.zhihu.com/p/26307123
 
 https://blog.csdn.net/Dream_angel_Z/article/details/48915561
-#### MLP，back propagation
+#### MLP
 http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
+#### 反向传播
+<https://zhuanlan.zhihu.com/p/44412855>
