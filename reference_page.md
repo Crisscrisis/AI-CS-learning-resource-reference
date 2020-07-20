@@ -21,6 +21,8 @@
 <http://huaxiaozhuan.com/>
 ###### 红色石头
 <https://redstonewill.com/>
+###### 设计师参考的网站
+<https://hunterdesigner.com/blog/>
 
 ### Tool
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
