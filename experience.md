@@ -121,6 +121,8 @@ https://yq.aliyun.com/articles/662383
 <https://yq.aliyun.com/articles/721104>
 #### 阿里云镜像市场搭建wordpress
 https://help.aliyun.com/document_detail/150522.html
+#### wordpress升级php
+<https://developer.aliyun.com/article/717769>
 
 # LeetCode
 #### LeetCode题解
