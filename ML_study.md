@@ -38,3 +38,15 @@ http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 <https://blog.csdn.net/qq_32865355/article/details/80260212>
 #### 理解最小二乘法（bp中损失函数使用最小二乘法的原因）
 <https://blog.csdn.net/ccnt_2012/article/details/81127117>
+#### 梯度消失和梯度爆炸
+<https://blog.csdn.net/qq_25737169/article/details/78847691>
+
+<https://zhuanlan.zhihu.com/p/25631496>
+#### batch norm
+<https://www.zhihu.com/question/38102762>
+
+<https://blog.csdn.net/qq_25737169/article/details/79048516>
+#### 理解LSTM
+<https://www.jianshu.com/p/9dc9f41f0b29>
+#### 理解Resnet
+<https://zhuanlan.zhihu.com/p/31852747>
