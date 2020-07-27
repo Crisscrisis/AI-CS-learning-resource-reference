@@ -32,3 +32,9 @@ https://blog.csdn.net/Dream_angel_Z/article/details/48915561
 http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 #### 反向传播
 <https://zhuanlan.zhihu.com/p/44412855>
+
+<https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/>
+#### bp详细推导
+<https://blog.csdn.net/qq_32865355/article/details/80260212>
+#### 理解最小二乘法（bp中损失函数使用最小二乘法的原因）
+<https://blog.csdn.net/ccnt_2012/article/details/81127117>
