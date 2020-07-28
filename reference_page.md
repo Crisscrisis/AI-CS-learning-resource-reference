@@ -77,3 +77,5 @@
 <https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf>
 ###### 神经网络与深度学习 邱锡鹏
 <https://nndl.github.io/nndl-book.pdf>
+###### Neural Networks and Deep Learning 中文翻译
+<https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn/content/>
