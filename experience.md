@@ -110,6 +110,8 @@
 # 环境配置
 #### conda环境管理
 <https://www.jianshu.com/p/aef6ff9730df>
+#### conda环境迁移配置
+<https://blog.csdn.net/zong596568821xp/article/details/84022701>
 #### git将fork的分支内容同步至自己的分支
 <https://help.github.com/cn/github/collaborating-with-issues-and-pull-requests/syncing-a-fork>
 <https://help.github.com/cn/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork>
