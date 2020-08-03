@@ -23,6 +23,10 @@
 <https://redstonewill.com/>
 ###### 设计师参考的网站
 <https://hunterdesigner.com/blog/>
+###### Bjarne Stroustrup谈C++
+<https://isocpp.org/blog/2014/12/myths-1>
+
+<https://isocpp.org/blog/2014/12/myths-2>
 
 ### Tool
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
