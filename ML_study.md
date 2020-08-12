@@ -1,5 +1,6 @@
 # ML学习路线
 ## 基础知识
+### 线性回归
 #### 梯度下降
 <https://medium.com/@saishruthi.tn/gradient-descent-algorithms-cefa1945a774>
 #### 梯度下降算法实现
@@ -8,6 +9,8 @@
 <https://developer.aliyun.com/article/727179>
 #### 梯度下降python实现
 <https://medium.com/@zhaoyi0113/python-implementation-of-batch-gradient-descent-379fa19eb428>
+
+### logistic 回归
 #### 机器学习中的交叉熵
 <https://blog.csdn.net/tsyccnh/article/details/79163834>
 #### 相对熵
@@ -16,37 +19,67 @@
 <https://www.zhihu.com/question/41252833>
 #### 直观讲解信息熵，相对熵，交叉熵
 <https://charlesliuyx.github.io/2017/09/11/%E4%BB%80%E4%B9%88%E6%98%AF%E4%BF%A1%E6%81%AF%E7%86%B5%E3%80%81%E4%BA%A4%E5%8F%89%E7%86%B5%E5%92%8C%E7%9B%B8%E5%AF%B9%E7%86%B5/>
+
+### softmax 回归
 #### softmax 回归
 <http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/>
 #### softmax 详细推导
 <https://blog.csdn.net/bqw18744018044/article/details/83120425>
 #### softmax 解释
 <https://blog.csdn.net/bitcarmanlee/article/details/82320853>
+
+### 神经网络
 #### perceptron
-http://www.wikiwand.com/en/Perceptron
-
-https://zhuanlan.zhihu.com/p/26307123
-
-https://blog.csdn.net/Dream_angel_Z/article/details/48915561
+<http://www.wikiwand.com/en/Perceptron>
+<https://zhuanlan.zhihu.com/p/26307123>
+<https://blog.csdn.net/Dream_angel_Z/article/details/48915561>
 #### MLP
 http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
+
+### 反向传播
 #### 反向传播
 <https://zhuanlan.zhihu.com/p/44412855>
-
 <https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/>
 #### bp详细推导
 <https://blog.csdn.net/qq_32865355/article/details/80260212>
 #### 理解最小二乘法（bp中损失函数使用最小二乘法的原因）
 <https://blog.csdn.net/ccnt_2012/article/details/81127117>
+
+### 训练问题
 #### 梯度消失和梯度爆炸
 <https://blog.csdn.net/qq_25737169/article/details/78847691>
-
 <https://zhuanlan.zhihu.com/p/25631496>
 #### batch norm
 <https://www.zhihu.com/question/38102762>
-
 <https://blog.csdn.net/qq_25737169/article/details/79048516>
+#### 各种loss比较
+<https://en.wikipedia.org/wiki/Loss_functions_for_classification>
+<https://medium.com/@phuctrt/loss-functions-why-what-where-or-when-189815343d3f>
+#### 各种activation function比较
+<https://medium.com/@phuctrt/activation-functions-when-to-use-them-and-how-could-they-perform-e428f7340e6d>
+
+### 网络结构
 #### 理解LSTM
 <https://www.jianshu.com/p/9dc9f41f0b29>
 #### 理解Resnet
 <https://zhuanlan.zhihu.com/p/31852747>
+
+### 正则化
+#### 机器学习中的范数规则化之1 L0、L1与L2范数
+<https://blog.csdn.net/zouxy09/article/details/24971995>
+#### 机器学习中的范数规则化之2 核范数与规则项参数选择
+<https://blog.csdn.net/zouxy09/article/details/24972869>
+#### 机器学习中正则化项L1和L2的直观理解
+<https://blog.csdn.net/jinping_shi/article/details/52433975>
+#### 带约束的最优化问题
+<https://blog.csdn.net/NewThinker_wei/article/details/52857397>
+#### 正则化方法：L1和L2 regularization、数据集扩增、dropout
+<https://blog.csdn.net/u012162613/article/details/44261657>
+#### 斯坦福机器学习课程 第三周 4正则化：解决过拟合问题
+<http://studyai.site/2016/09/04/%E6%96%AF%E5%9D%A6%E7%A6%8F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%20%E7%AC%AC%E4%B8%89%E5%91%A8%20(4)%E6%AD%A3%E5%88%99%E5%8C%96%EF%BC%9A%E8%A7%A3%E5%86%B3%E8%BF%87%E6%8B%9F%E5%90%88%E9%97%AE%E9%A2%98/>
+
+### SVM
+#### 支持向量机通俗导论(理解SVM的三层境界)
+<https://blog.csdn.net/v_JULY_v/article/details/7624837>
+
+
