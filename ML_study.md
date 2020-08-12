@@ -31,7 +31,9 @@
 ### 神经网络
 #### perceptron
 <http://www.wikiwand.com/en/Perceptron>
+
 <https://zhuanlan.zhihu.com/p/26307123>
+
 <https://blog.csdn.net/Dream_angel_Z/article/details/48915561>
 #### MLP
 http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
@@ -39,6 +41,7 @@ http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 ### 反向传播
 #### 反向传播
 <https://zhuanlan.zhihu.com/p/44412855>
+
 <https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/>
 #### bp详细推导
 <https://blog.csdn.net/qq_32865355/article/details/80260212>
@@ -48,12 +51,15 @@ http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 ### 训练问题
 #### 梯度消失和梯度爆炸
 <https://blog.csdn.net/qq_25737169/article/details/78847691>
+
 <https://zhuanlan.zhihu.com/p/25631496>
 #### batch norm
 <https://www.zhihu.com/question/38102762>
+
 <https://blog.csdn.net/qq_25737169/article/details/79048516>
 #### 各种loss比较
 <https://en.wikipedia.org/wiki/Loss_functions_for_classification>
+
 <https://medium.com/@phuctrt/loss-functions-why-what-where-or-when-189815343d3f>
 #### 各种activation function比较
 <https://medium.com/@phuctrt/activation-functions-when-to-use-them-and-how-could-they-perform-e428f7340e6d>
