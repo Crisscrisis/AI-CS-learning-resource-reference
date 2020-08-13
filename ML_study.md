@@ -87,5 +87,22 @@ http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 ### SVM
 #### 支持向量机通俗导论(理解SVM的三层境界)
 <https://blog.csdn.net/v_JULY_v/article/details/7624837>
+#### 机器学习算法复习手册——SVM
+<https://cloud.tencent.com/developer/article/1561093>
+#### 机器学习实战教程（八）：支持向量机原理篇之手撕线性SVM
+<https://cuijiahua.com/blog/2017/11/ml_8_svm_1.html>
+#### 机器学习实战教程（九）：支持向量机实战篇之再撕非线性SVM
+<https://cuijiahua.com/blog/2017/11/ml_9_svm_2.html>
+#### 真正理解拉格朗日乘子法和KKT条件
+<https://blog.csdn.net/weixin_41500849/article/details/80493712>
+#### 零基础学SVM—Support Vector Machine(一)
+<https://zhuanlan.zhihu.com/p/24638007>
+
+## 机器学习轻量化
+### 矩阵乘法数据分块
+#### 深度学习加速：算法、编译器、体系结构与硬件设计
+<https://zhuanlan.zhihu.com/p/101544149>
+#### 通用矩阵乘（GEMM）优化与卷积计算
+<https://zhuanlan.zhihu.com/p/66958390>
 
 
