@@ -27,6 +27,8 @@
 <https://isocpp.org/blog/2014/12/myths-1>
 
 <https://isocpp.org/blog/2014/12/myths-2>
+###### Jack Cui的个人主页
+<https://cuijiahua.com/>
 
 ### Tool
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
