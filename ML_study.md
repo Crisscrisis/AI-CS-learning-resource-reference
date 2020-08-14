@@ -105,4 +105,18 @@ http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 #### 通用矩阵乘（GEMM）优化与卷积计算
 <https://zhuanlan.zhihu.com/p/66958390>
 
+## 网络架构
+### RNN
+#### 全面理解RNN及其不同架构
+<https://zhuanlan.zhihu.com/p/34152808>
+### LSTM & GRU
+#### 深入理解lstm及其变种gru
+<https://zhuanlan.zhihu.com/p/34203833>
+#### 人人都能看懂的GRU
+<https://zhuanlan.zhihu.com/p/32481747>
+#### 难以置信！LSTM和GRU的解析从未如此清晰
+<https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82922386>
 
+## 应用
+### 姿态识别
+#### 2D3D姿态识别<https://mp.weixin.qq.com/s__biz=MzU5MzQyMzk5OQ==&mid=2247484885&idx=1&sn=09aaafd71959a9c0db703993f8386bd5&chksm=fe11fec5c96677d3580e5f9ee7c9c4c5f4c31257442625afa5ae59e2f2954940e3c3a50acc33&mpshare=1&scene=1&srcid=#rd>
