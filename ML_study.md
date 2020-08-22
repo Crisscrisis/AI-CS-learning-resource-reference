@@ -119,4 +119,17 @@ http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 
 ## 应用
 ### 姿态识别
-#### 2D3D姿态识别<https://mp.weixin.qq.com/s__biz=MzU5MzQyMzk5OQ==&mid=2247484885&idx=1&sn=09aaafd71959a9c0db703993f8386bd5&chksm=fe11fec5c96677d3580e5f9ee7c9c4c5f4c31257442625afa5ae59e2f2954940e3c3a50acc33&mpshare=1&scene=1&srcid=#rd>
+#### 2D3D姿态识别
+<https://mp.weixin.qq.com/s__biz=MzU5MzQyMzk5OQ==&mid=2247484885&idx=1&sn=09aaafd71959a9c0db703993f8386bd5&chksm=fe11fec5c96677d3580e5f9ee7c9c4c5f4c31257442625afa5ae59e2f2954940e3c3a50acc33&mpshare=1&scene=1&srcid=#rd>
+#### 姿态识别综述
+<https://medium.com/beyondminds/an-overview-of-human-pose-estimation-with-deep-learning-d49eb656739b>
+#### 姿态识别综述翻译
+<https://www.infoq.cn/article/6Btg0-1crfmb7svRGa6H>
+#### 通俗易懂讲解openPose原理
+<https://blog.csdn.net/tangbin2009/article/details/81122788>
+#### openPose算法解析
+<https://www.jianshu.com/p/98c11545d4fb>
+#### openPose详细解析
+<https://arvrjourney.com/human-pose-estimation-using-openpose-with-tensorflow-part-1-7dd4ca5c8027>
+
+<https://arvrjourney.com/human-pose-estimation-using-openpose-with-tensorflow-part-2-e78ab9104fc8>
