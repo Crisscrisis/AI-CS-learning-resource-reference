@@ -17,9 +17,9 @@
 | n数之和                    | 双指针        | leetcode 1, leetcode 15, leetcode 167                        |
 | 最长公共前缀               | 字符串        | leetcode 14                                                  |
 | 删除重复项                 | 双指针        | leetcode 26, leetcode 27, leetcode 283, *leetcode 80*        |
-| 字符串比较                 | 双指针,字符串 | leetcode 28, *leetcode 214, leetcode 459*                    |
+| 字符串比较                 | 双指针,字符串 | leetcode 28, *leetcode 214*, *leetcode 459*                    |
 | 螺旋矩阵                   | 数组          | leetcode 54, *leetcode 59*                                   |
-| 加一                       | 数组          | leetcode 66, leetcode 67, leetcode 415, *leetcode 43, leetcode 391*, *leetcode 989* |
+| 加一                       | 数组          | leetcode 66, leetcode 67, leetcode 415, *leetcode 43*, *leetcode 391*, *leetcode 989* |
 | 杨辉三角                   | 数组          | leetcode 118, leetcode 119                                   |
 | 反转字符串里的单词         | 字符串        | leetcode 151, leetcode 189, *leetcode 186*                   |
 | 长度最小的子数组           | 双指针        | leetcode 209, *leetcode 76,* *leetcode 325,* *leetcode 718*  |
