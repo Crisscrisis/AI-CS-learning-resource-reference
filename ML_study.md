@@ -119,6 +119,8 @@ http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 ### CNN
 #### CNN的直观解释
 <https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/>
+#### A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way
+<https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53>
 
 ## 应用
 ### 姿态识别
