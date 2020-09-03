@@ -116,6 +116,9 @@ http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 <https://zhuanlan.zhihu.com/p/32481747>
 #### 难以置信！LSTM和GRU的解析从未如此清晰
 <https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82922386>
+### CNN
+#### CNN的直观解释
+<https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/>
 
 ## 应用
 ### 姿态识别
