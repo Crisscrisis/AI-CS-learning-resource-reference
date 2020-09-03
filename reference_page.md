@@ -29,6 +29,10 @@
 <https://isocpp.org/blog/2014/12/myths-2>
 ###### Jack Cui的个人主页
 <https://cuijiahua.com/>
+###### 深度学习之美
+<https://yq.aliyun.com/topic/111>
+###### 机器学习1000题
+<https://blog.csdn.net/v_JULY_v/article/details/78121924>
 
 ### Tool
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
@@ -63,6 +67,8 @@
 <https://legacy.gitbook.com/book/wizardforcel/lcthw/details>
 ###### Dive deeper on topics that matter to you
 <https://medium.com/>
+###### pytorch教程
+<https://github.com/yunjey/pytorch-tutorial>
 
 ### books
 ###### Machine Learning 数学书
@@ -89,3 +95,20 @@
 <https://www.sciencedirect.com/book/9780081006597/machine-learning>
 ###### Feature Extraction and Image Processing for Computer Vision
 <https://www.sciencedirect.com/book/9780128149768/feature-extraction-and-image-processing-for-computer-vision>
+###### 斯坦福机器学习笔记
+<https://legacy.gitbook.com/book/yoyoyohamapi/mit-ml>
+###### coursera深度学习课程笔记
+<https://github.com/fengdu78/deeplearning_ai_books>
+###### 斯坦福吴恩达机器学习教程中文笔记
+<https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes>
+###### 机器学习初学者
+<https://github.com/fengdu78/machine_learning_beginner>
+###### 动手深度学习pytorch版本
+<https://tangshusen.me/Dive-into-DL-PyTorch/#/>
+###### 动手深度学习jupyter版本
+<http://zh.d2l.ai/chapter_how-to-use/how-to-use.html>
+###### 神经网络与深度学习
+<https://legacy.gitbook.com/book/hit-scir/neural-networks-and-deep-learning-zh_cn/details>
+###### pytorch官方教程中文版
+<http://pytorch123.com/>
+
