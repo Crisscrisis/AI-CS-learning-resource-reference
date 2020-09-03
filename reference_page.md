@@ -85,3 +85,7 @@
 <https://nndl.github.io/nndl-book.pdf>
 ###### Neural Networks and Deep Learning 中文翻译
 <https://hit-scir.gitbooks.io/neural-networks-and-deep-learning-zh_cn/content/>
+###### Machine Learning books
+<https://www.sciencedirect.com/book/9780081006597/machine-learning>
+###### Feature Extraction and Image Processing for Computer Vision
+<https://www.sciencedirect.com/book/9780128149768/feature-extraction-and-image-processing-for-computer-vision>
