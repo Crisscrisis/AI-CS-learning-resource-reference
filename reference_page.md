@@ -33,6 +33,8 @@
 <https://yq.aliyun.com/topic/111>
 ###### 机器学习1000题
 <https://blog.csdn.net/v_JULY_v/article/details/78121924>
+###### Linux进程管理与调度
+https://blog.csdn.net/gatieme/article/details/51456569
 
 ### Tool
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
@@ -111,4 +113,8 @@
 <https://legacy.gitbook.com/book/hit-scir/neural-networks-and-deep-learning-zh_cn/details>
 ###### pytorch官方教程中文版
 <http://pytorch123.com/>
+###### 操作系统导论
+<file:///C:/Users/l00447317/AppData/Roaming/eSpace_Desktop/UserData/l00447317/ReceiveFile/C%E4%BD%9CSYSTEM%E5%AF%BCL/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AF%BC%E8%AE%BA%20-%20%E9%9B%B7%E5%A7%86%E5%85%B9%C2%B7H.%E9%98%BF%E5%B8%95%E5%B8%8C%E6%9D%9C%E5%A1%9E%E5%B0%94.pdf>
+###### 华校专机器学习笔记
+<http://www.huaxiaozhuan.com/>
 
