@@ -31,3 +31,5 @@ cmake 官方tutorial: https://cmake.org/cmake/help/v3.17/guide/tutorial/index.ht
 ##### shell
 
 使用#!/bin/bash的原因：https://medium.com/@codingmaths/bin-bash-what-exactly-is-this-95fc8db817bf
+
+对find，xargs，grep和管道的一些深入理解：http://fatmouse.xyz/2016/05/10/2016-05-10-find-grep-xargs-and-pipe/
