@@ -126,6 +126,17 @@ https://help.aliyun.com/document_detail/150522.html
 #### wordpress升级php
 <https://developer.aliyun.com/article/717769>
 
+## opencv配置
+<http://news.migage.com/articles/Linux+cmake%E7%BC%96%E8%AF%91%E6%BA%90%E7%A0%81%E5%AE%89%E8%A3%85+OpenCV++opencv_contrib_3517707_csdn.html>
+
+<https://blog.csdn.net/wzw_2008/article/details/106944407>
+
+<https://blog.csdn.net/cking0906/article/details/102560081>
+
+<https://www.twblogs.net/a/5c1f5521bd9eee16b3da8f65?lang=zh-cn>
+
+<https://blog.csdn.net/KayChanGEEK/article/details/79919417>
+
 # LeetCode
 #### LeetCode题解
 <https://github.com/azl397985856/leetcode>
