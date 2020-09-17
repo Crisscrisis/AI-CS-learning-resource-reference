@@ -137,6 +137,10 @@ https://help.aliyun.com/document_detail/150522.html
 
 <https://blog.csdn.net/KayChanGEEK/article/details/79919417>
 
+## git配置
+#### git ignore配置
+<https://juejin.im/post/6844903902647697416>
+
 # LeetCode
 #### LeetCode题解
 <https://github.com/azl397985856/leetcode>
