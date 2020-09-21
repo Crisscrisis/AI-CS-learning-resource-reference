@@ -141,6 +141,7 @@ https://help.aliyun.com/document_detail/150522.html
 #### git ignore配置
 <https://juejin.im/post/6844903902647697416>
 
+## Linux配置
 #### Windows上将linux目录映射网络驱动器
 <https://blog.csdn.net/zhaoliang831214/article/details/84203138>
 
