@@ -35,6 +35,8 @@
 <https://blog.csdn.net/v_JULY_v/article/details/78121924>
 ###### Linux进程管理与调度
 https://blog.csdn.net/gatieme/article/details/51456569
+###### geeksforgeeks 硬核计算机知识分享
+https://www.geeksforgeeks.org/pipe-system-call/
 
 ### Tool
 ###### Netron: Visualizer for neural network, deep learning and machine learning models
