@@ -12,12 +12,12 @@
 | 链表基本操作               | 链表          | leetcode 2, leetcode 19, leetcode 160, leetcode 206          |
 | 网络搜索最佳距离           | bfs           | leetcode 296                                                 |
 | 最长子串                   | 字符串        | leetcode 3, *leetcode 159, leetcode 340, leetcode 992*       |
-| 寻找郑旭数组中位数         | 二分查找      | leetcode 4                                                   |
+| 寻找正序数组中位数         | 二分查找      | leetcode 4                                                   |
 | 接雨水                     | 双指针        | leetcode 11, leetcode 42                                     |
 | n数之和                    | 双指针        | leetcode 1, leetcode 15, leetcode 167                        |
 | 最长公共前缀               | 字符串        | leetcode 14                                                  |
 | 删除重复项                 | 双指针        | leetcode 26, leetcode 27, leetcode 283, *leetcode 80*        |
-| 字符串比较                 | 双指针,字符串 | leetcode 28, *leetcode 214*, *leetcode 459*                    |
+| 字符串比较                 | 双指针,字符串 | leetcode 28, *leetcode 214*, *leetcode 459*                  |
 | 螺旋矩阵                   | 数组          | leetcode 54, *leetcode 59*                                   |
 | 加一                       | 数组          | leetcode 66, leetcode 67, leetcode 415, *leetcode 43*, *leetcode 391*, *leetcode 989* |
 | 杨辉三角                   | 数组          | leetcode 118, leetcode 119                                   |
@@ -31,4 +31,4 @@
 | 反转字符串中的单词         | 字符串        | leetcode 557, *leetcode 541*                                 |
 | 寻找数组的中心索引         | 数组          | leetcode 724, *leetcode 560*                                 |
 | 至少是其他数字两倍的最大数 | 数组          | leetcode 747                                                 |
-
+| 全排列                     | 回溯          | leetcode 46, leetcode 47, leetcode 39, leetcode 40, leetcode 77, leetcode 78, leetcode 90, *leetcode 60*, *leetcode 93* |
