@@ -41,3 +41,7 @@ cmake 官方tutorial: https://cmake.org/cmake/help/v3.17/guide/tutorial/index.ht
 设计一个精确的延时函数，使用C++11 新增库 std::chrono：https://stackoverflow.com/questions/48937458/how-to-setup-a-precise-periodic-timer-to-monitor-stuff-in-linuxc-c
 
 sleep更小单位的时间：https://stackoverflow.com/questions/1157209/is-there-an-alternative-sleep-function-in-c-to-milliseconds
+
+### 性能优化
+
+详解圈复杂度： http://kaelzhang81.github.io/2017/06/18/%E8%AF%A6%E8%A7%A3%E5%9C%88%E5%A4%8D%E6%9D%82%E5%BA%A6/
