@@ -198,3 +198,13 @@ https://help.aliyun.com/document_detail/150522.html
 <https://blog.csdn.net/qq_20661579/article/details/76960275>
 #### error LNK2019: 无法解析的外部符号---官方文档
 <https://docs.microsoft.com/zh-cn/cpp/error-messages/tool-errors/linker-tools-error-lnk2019?view=vs-2019>
+
+# 自动驾驶
+#### Taylor liu的自动驾驶博客
+<http://taylorliu.com/robotics/automous_driving>
+#### 疫情期间自动驾驶行业观察
+<https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/>
+#### 自动驾驶仿真行业观察
+<https://arxiv.org/ftp/arxiv/papers/1910/1910.06075.pdf>
+#### 2019中国自动驾驶仿真技术蓝皮书
+<http://taylorliu.com/topics/data/2019-%E4%B8%AD%E5%9B%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BB%BF%E7%9C%9F%E6%8A%80%E6%9C%AF%E8%93%9D%E7%9A%AE%E4%B9%A6.pdf>
