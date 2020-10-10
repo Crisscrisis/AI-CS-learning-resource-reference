@@ -42,6 +42,14 @@ cmake 官方tutorial: https://cmake.org/cmake/help/v3.17/guide/tutorial/index.ht
 
 sleep更小单位的时间：https://stackoverflow.com/questions/1157209/is-there-an-alternative-sleep-function-in-c-to-milliseconds
 
+#### 数据结构
+
+优先队列和堆：https://zhuanlan.zhihu.com/p/39615266
+
+堆和二叉堆：https://juejin.im/post/6844903826856607757
+
+
+
 ### 性能优化
 
 详解圈复杂度： http://kaelzhang81.github.io/2017/06/18/%E8%AF%A6%E8%A7%A3%E5%9C%88%E5%A4%8D%E6%9D%82%E5%BA%A6/
