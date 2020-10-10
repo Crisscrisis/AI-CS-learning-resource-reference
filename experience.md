@@ -208,3 +208,5 @@ https://help.aliyun.com/document_detail/150522.html
 <https://arxiv.org/ftp/arxiv/papers/1910/1910.06075.pdf>
 #### 2019中国自动驾驶仿真技术蓝皮书
 <http://taylorliu.com/topics/data/2019-%E4%B8%AD%E5%9B%BD%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BB%BF%E7%9C%9F%E6%8A%80%E6%9C%AF%E8%93%9D%E7%9A%AE%E4%B9%A6.pdf>
+#### waymo的carcraft探秘
+<https://www.theatlantic.com/technology/archive/2017/08/inside-waymos-secret-testing-and-simulation-facilities/537648/>
