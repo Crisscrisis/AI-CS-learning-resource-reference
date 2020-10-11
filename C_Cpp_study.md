@@ -48,6 +48,8 @@ sleep更小单位的时间：https://stackoverflow.com/questions/1157209/is-ther
 
 堆和二叉堆：https://juejin.im/post/6844903826856607757
 
+堆的基本操作与堆排序：https://www.jianshu.com/p/502510ca89d3
+
 
 
 ### 性能优化
