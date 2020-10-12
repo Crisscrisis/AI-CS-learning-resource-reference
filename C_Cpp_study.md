@@ -22,6 +22,8 @@ cmake 官方tutorial: https://cmake.org/cmake/help/v3.17/guide/tutorial/index.ht
 
 ### 设计模式
 
+非常好的设计模式网站：https://refactoringguru.cn/design-patterns
+
 #### 观察者模式
 
 观察者模式简易教程：http://www.jeepxie.net/article/564420.html
