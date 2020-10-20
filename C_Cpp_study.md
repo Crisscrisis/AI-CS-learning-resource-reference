@@ -36,6 +36,10 @@ cmake 官方tutorial: https://cmake.org/cmake/help/v3.17/guide/tutorial/index.ht
 
 对find，xargs，grep和管道的一些深入理解：http://fatmouse.xyz/2016/05/10/2016-05-10-find-grep-xargs-and-pipe/
 
+#### epoll Linux 编程
+
+linux编程epoll：https://programmer.ink/think/epoll-for-linux-programming.html
+
 ### C++
 
 #### 函数技巧
