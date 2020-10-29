@@ -121,6 +121,13 @@ http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 <https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/>
 #### A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way
 <https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53>
+### GAN
+#### GAN知识汇总
+<https://easyai.tech/ai-definition/gan/>
+#### GAN的理解
+<https://towardsdatascience.com/understanding-generative-adversarial-networks-gans-cd6e4651a29>
+#### GAN之乎专栏
+<https://www.zhihu.com/column/c_1186274355943813120>
 
 ## 应用
 ### 姿态识别
